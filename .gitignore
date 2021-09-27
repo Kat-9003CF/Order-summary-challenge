@@ -16,6 +16,8 @@
 .prettierignore
 
 #avoid pushing font files and readmes
-*.md
+.README-original.md
+.style-guide.md
 .fonts
+
 *.ttf
