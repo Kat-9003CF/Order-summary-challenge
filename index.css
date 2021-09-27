@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "text";
+    src: url('fonts/RedHatDisplay-VariableFont_wght.ttf');
+    format: ("truetype");
+}
+
+@font-face {
+    font-family: "italic";
+    src: url('fonts/RedHatDisplay-Italic-VariableFont_wght.ttf');
+    format: ("truetype");
+}
+
+
+body{
+background-image: url("images/pattern-background-desktop.svg");
+max-width: 100%;
+background-color: hsl(225, 100%, 94%);
+background-repeat: repeat-x;
+font-family: text;
+text-align: center;
+}
+
+.card {
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;    
+    border-radius: 15px;
+    margin: 0 auto;
+    position: absolute;
+    max-width: 350px;
+    min-width: 300px;
+    top: 50%;
+    left: 25%;
+    right: 25%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%); 
+}
+
+.card h2{
+    font-weight: 900;
+
+}
+
+h4 {
+    font-weight: 900;
+    line-height: 1em;
+}
+
+.card img{
+    width: 100%;
+    padding: 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card p{
+    padding: 10%;
+    color: grey;
+}
+
+
+.planBox{
+    background-color: hsl(225, 100%, 94%);    
+    width: 80%;
+    position:relative;
+    left: 10%;
+    right: 10%;
+    margin-bottom: 10px;
+    display: grid;
+    grid-auto-columns:auto;
+    grid-row: 1;
+}
+
+.planBox p{
+    font-size: 90%;
+}
+
+.planBox img{
+    width: 80%;
+    position: relative;
+    top: 10%;
+}
+
+.planBox .firstCol{
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+.planBox .midCol{
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+.planBox .endCol{
+    grid-column-start: 3;
+    grid-column-end: 3;
+    position: relative;
+    top: 25%;
+}
+
+p .link {
+    color: blue;
+    font-style: underline;
+}
+
+button{
+    background-color: hsl(245, 75%, 52%);
+    color:white;
+    margin: 0 auto;
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+
+.attribution { 
+    font-size: 11px; 
+    position: absolute;
+    bottom: 5%;
+
+
+};
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+

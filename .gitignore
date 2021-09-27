@@ -15,5 +15,7 @@
 .DS_Store
 .prettierignore
 
-
+#avoid pushing font files and readmes
 *.md
+.fonts
+*.ttf
