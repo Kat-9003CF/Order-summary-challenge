@@ -137,14 +137,13 @@ button:hover{
   }
 
 
-.attribution { 
+/* .footer { 
     font-size: 11px; 
-    position: absolute;
-    bottom: 5%;
-
-
+    position: relative;
+    bottom: 10px;
 };
-.attribution a { 
+
+.footer a { 
     color: hsl(228, 45%, 44%);
-}
+} */
 
