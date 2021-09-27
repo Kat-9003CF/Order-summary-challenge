@@ -88,5 +88,5 @@ I'm planning to keep adjusting the spacing, and create a mobile layout.
 <!-- ## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-- Frontend Mentor - [@Kat-9003CF](https://www.frontendmentor.io/profile/Kat-9003CF) -->
+- Frontend Mentor - [@Kat-9003CF](https://www.frontendmentor.io/profile/Kat-9003CF)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
