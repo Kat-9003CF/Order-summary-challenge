@@ -13,8 +13,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   <!-- - [What I learned](#what-i-learned) -->
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-<!-- - [Author](#author)
-- [Acknowledgments](#acknowledgments) -->
+- [Author](#author)
+<!-- - [Acknowledgments](#acknowledgments) --> -->
 
 
 ## Overview
@@ -85,7 +85,7 @@ I'm planning to keep adjusting the spacing, and create a mobile layout.
 - [W3Schools](https://www.w3schools.com/css/css_grid.asp) - I use this site a lot, and the CSS resources are particularly clear.  I used this to help with the grid layout, and also fixing the position of the card relative to the parent window.
 
 
-<!-- ## Author
+## Author
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 - Frontend Mentor - [@Kat-9003CF](https://www.frontendmentor.io/profile/Kat-9003CF)
