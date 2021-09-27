@@ -10,13 +10,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  <!-- - [What I learned](#what-i-learned) -->
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+<!-- - [Author](#author)
+- [Acknowledgments](#acknowledgments) -->
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,7 +23,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 The challenge was to build an order summary card component and get it looking as close to the design as possible.
 
-![Desktop design](./desktop-design.jpg)
+![](./desktop-design.jpg)
 
 ### Screenshot
 
