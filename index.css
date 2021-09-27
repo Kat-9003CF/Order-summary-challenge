@@ -38,7 +38,6 @@ text-align: center;
 
 .card h2{
     font-weight: 900;
-
 }
 
 h4 {
@@ -60,12 +59,11 @@ h4 {
 
 
 .planBox{
-    background-color: hsl(225, 100%, 94%);    
+    background-color: hsl(225, 100%, 98%);
     width: 80%;
     position:relative;
     left: 10%;
     right: 10%;
-    margin-bottom: 10px;
     display: grid;
     grid-auto-columns:auto;
     grid-row: 1;
@@ -98,16 +96,40 @@ h4 {
     top: 25%;
 }
 
-p .link {
+a {
     color: blue;
     font-style: underline;
 }
 
+.smallGrey{
+    font-size: small;
+    font-weight: bold;
+    color:darkgrey;
+    padding: 0px;
+}
+
+.smallGrey:hover{
+    cursor: pointer;
+}
+a:hover{
+    cursor: pointer;
+}
+
 button{
     background-color: hsl(245, 75%, 52%);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     color:white;
-    margin: 0 auto;
+    margin: 0;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: text;
+    width: 80%;
+    border: blue;
+}
 
+button:hover{
+    cursor:pointer;
 }
 
 .card:hover {
