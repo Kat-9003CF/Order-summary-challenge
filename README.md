@@ -22,9 +22,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 
-Users should be able to:
+The challenge was to build an order summary card component and get it looking as close to the design as possible.
 
-- See hover states for interactive elements
+![Desktop design](./desktop-design.jpg)
 
 ### Screenshot
 
