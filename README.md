@@ -40,9 +40,9 @@ This screenshot shows my work in progress.  It is not yet a final version.
 ## My process
 
 - First I used CSS to create the div 'card' and display that.  I then fixed the width and height relative to the window, and set min and max widths.
--Then I set about the content of the card.  I added the image and shaped it, then added the button.
--I used a grid to organise the content of the 'plan' box.
--I kept this in CSS rather than using Bootstrap, to really work on my CSS basics.  I plan to also try creating this using Bootstrap.
+- Then I set about the content of the card.  I added the image and shaped it, then added the button.
+- I used a grid to organise the content of the 'plan' box.
+- I kept this in CSS rather than using Bootstrap, to really work on my CSS basics.  I plan to also try creating this using Bootstrap.
 
 ### Built with
 
