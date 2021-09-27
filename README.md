@@ -23,11 +23,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 The challenge was to build an order summary card component and get it looking as close to the design as possible.
 
-![](./design/desktop-design.jpg =250x)
+![](./design/desktop-design.jpg)
 
 ### Screenshot
 
-![](work-in-progress.jpg)
+![](./design/work-in-progress.jpg)
 
 This screenshot shows my work in progress.  It is not yet a final version.
 
