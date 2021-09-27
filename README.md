@@ -27,7 +27,7 @@ The challenge was to build an order summary card component and get it looking as
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./work-in-progress.jpg)
 
 This screenshot shows my work in progress.  It is not yet a final version.
 
